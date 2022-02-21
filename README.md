@@ -20,17 +20,10 @@
 [![](https://img.shields.io/badge/GitHub-Utsavkumar_Patel-%23181717?logo=github)](https://github.com/Utsav360)
 [![](https://img.shields.io/badge/Whatsapp-Utsavkumar_Patel-25D366?logo=whatsapp&logoColor=green)](https://wa.me/+13653666324)
 
-------------
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
 ## 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸 :
 
 ![React](https://img.shields.io/badge/-React.Js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
