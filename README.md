@@ -14,6 +14,7 @@
 - ⚡ Fun fact: ... eat , sleep, coding repeat & make something extraordinary ... 
 - 💬 Ask me... Anything ...
 
+## Contact Me🤙🏻: 
 -----------
 [![](https://img.shields.io/badge/LinkedIn-Utsavkumar_Patel-blue?logo=Linkedin&logoColor=%23239120&labelColor=black)](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
 [![](https://img.shields.io/badge/Outlook-Utsavkumar_Patel-%2335BDB2?logo=Outlook&logoColor=Red&labelColor=black)](mailto:utsavkumar-mukeshbhai.patel@mohawkcollege.ca)
