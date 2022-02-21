@@ -3,7 +3,8 @@
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-:computer person :  𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 Freelance 𝒂𝒕 [STEM montessori academy of canada](https://stemacademy.net/) 𝒓𝒆𝒎𝒐𝒕𝒆𝒍𝒚.
+:computer :  𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 as Freelance Web Developer 𝒂𝒕 [STEM montessori academy of canada](https://stemacademy.net/) 𝒓𝒆𝒎𝒐𝒕𝒆𝒍𝒚.
+:experience : 4-months working experience as a UX/UI Designer Intern at [Communitech](https://www.communitech.ca/) and 6-months as a PHP Web Developer Intern at back to India.
 
 - 💬 I'm recent CST grad from mohawk college ...
 - 🌱 I’m currently learning ... Vue.JS, Node.JS & GraphQL ...
