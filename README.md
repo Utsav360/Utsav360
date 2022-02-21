@@ -19,7 +19,7 @@
 
 #### Languages:
 
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-%23282C34?style=for-the-badge&logo=reactnative)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
 ![Vanilla.js](https://img.shields.io/badge/-Vanilla.js-yellow?style=for-the-badge&logo=vanillajs)
