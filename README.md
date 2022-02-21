@@ -5,9 +5,9 @@
 
 :computer🖥️  :  𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 as ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat-square&logo=Freelancer&logoColor=white) Web Developer 𝒂𝒕 [STEM montessori academy of canada](https://stemacademy.net/) 𝒓𝒆𝒎𝒐𝒕𝒆𝒍𝒚.
 
-:experience : 4-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a UX/UI Designer Intern at [Communitech](https://www.communitech.ca/) 𝒓𝒆𝒎𝒐𝒕𝒆𝒍𝒚 and 6-months as a PHP Web Developer Intern at back to India.
+:experience✨: 4-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a UX/UI Designer Intern at [Communitech](https://www.communitech.ca/) 𝒓𝒆𝒎𝒐𝒕𝒆𝒍𝒚 and 6-months as a PHP Web Developer Intern at back to India.
 
-- 💬 I'm recent CST grad👨🏻‍🎓 from Mohawk College ...
+- 💬 I'm recent CST grad👨 🏻‍🎓 from Mohawk College ...
 - 🌱 I’m currently learning ... Vue.JS, Node.JS & GraphQL ...
 - 👯 I’m looking to collaborate on ... making great things ...
 - 🤔 I’m looking for help with ... finding Tech Job ...
@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/GitHub-Utsavkumar_Patel-%23181717?logo=github)](https://github.com/Utsav360)
 [![](https://img.shields.io/badge/Whatsapp-Utsavkumar_Patel-25D366?logo=whatsapp&logoColor=green)](https://wa.me/+13653666324)
 
-## 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸 :
+## 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸 ⌨️:
 
 ![React](https://img.shields.io/badge/-React.Js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)
@@ -62,7 +62,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad_++-%23239120.svg?style=for-the-badge&logo=notepad++&logoColor=white)
 
-## 𝗦𝘁𝗮𝘁𝘀 :
+## 𝗦𝘁𝗮𝘁𝘀 📊:
 
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=Utsav360&count_private=true&show_icons=true&theme=prussian" width="500">
