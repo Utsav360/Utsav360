@@ -66,15 +66,7 @@
 ![Notepad++](https://img.shields.io/badge/Notepad_++-%23239120.svg?style=for-the-badge&logo=notepad++&logoColor=white)
 
 ## 𝗦𝘁𝗮𝘁𝘀 📊:
------
-<div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utsav360&count_private=true&show_icons=true&theme=prussian" width="500">
-<br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav360&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</div>
-
 ---
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
