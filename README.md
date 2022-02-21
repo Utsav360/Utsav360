@@ -1,5 +1,5 @@
 
-<img align="right" alt="Utsavkumar_Patel" src="https://github.com/Utsav360/Utsav360/blob/main/coder.gif" width="800" height="400" />
+<img alt="Utsavkumar_Patel" src="https://github.com/Utsav360/Utsav360/blob/main/coder.gif" width="800" height="350" />
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### Hey there .. this is Utsavkumar Patel 👋
 
