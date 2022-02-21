@@ -1,3 +1,9 @@
+[![](https://img.shields.io/github/license/Utsav360/Utsav360?logo=GitHub)
+](https://github.com/Utsav360/Utsav360/blob/main/UNLICENSE)
+[![](https://img.shields.io/badge/create-license-blue)](https://shields.io/category/license)
+![](https://komarev.com/ghpvc/?username=Utsav360&color=red) 
+![](https://img.shields.io/badge/Since-Oct%2018%2C%202021-blueviolet)
+
 ### Hey there .. this is Utsavkumar Patel 👋
 
 <img alt="Utsavkumar_Patel" src="https://github.com/Utsav360/Utsav360/blob/main/coder.gif" width="800" height="350" />
