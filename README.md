@@ -28,7 +28,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸
 
 
 #### Languages:
