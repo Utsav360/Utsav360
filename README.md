@@ -10,5 +10,5 @@
 
 [![](https://img.shields.io/badge/-@Utsavkumar Patel-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
 [![](https://img.shields.io/badge/-@Utsavkumar Patel-%23181717?style=flat-square&logo=github)](https://github.com/Utsav360)
-[![](https://img.shields.io/badge/-@Utsavkumar Patel-%23000000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCagi6F9fRsPJUDFbdFtZQtw)
+
 
