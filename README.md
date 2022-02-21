@@ -85,5 +85,5 @@
 
 </details>
 
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31qvu3j5sxkui6n5nkh7rbw3mnxu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31qvu3j5sxkui6n5nkh7rbw3mnxu&cover_image=true&theme=default&bar_color_cover=true)]]
 
