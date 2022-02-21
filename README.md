@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ... eat , sleep , coding repeat ... 
 - 💬 Ask me... Anything ...
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
+[![](https://img.shields.io/badge/-@UtsavkumarPatel-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/xiaoluoboding)
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
