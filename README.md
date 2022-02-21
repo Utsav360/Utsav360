@@ -1,5 +1,10 @@
 ### Hey there .. this is Utsavkumar Patel 👋
 
+
+𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+
+:computer person :  𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 Freelance 𝒂𝒕 [STEM montessori academy of canada](https://stemacademy.net/) 𝒓𝒆𝒎𝒐𝒕𝒆𝒍𝒚.
+
 - 💬 I'm recent CST grad from mohawk college ...
 - 🌱 I’m currently learning ... Vue.JS, Node.JS & GraphQL ...
 - 👯 I’m looking to collaborate on ... making great things ...
