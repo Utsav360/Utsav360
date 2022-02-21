@@ -7,7 +7,7 @@
 
 :experience✨: 4-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a UX/UI Designer Intern at [Communitech](https://www.communitech.ca/) and more than 6-months as a PHP Web Developer Intern at back to India.
 
-- 💬 I'm recent CST grad student🧑‍🎓 from Mohawk College ...
+- 💬 I'm recent CST 👨‍💻grad student🧑‍🎓 from Mohawk College ...
 - 🌱 I’m currently learning ... Vue.JS, Node.JS & GraphQL ...
 - 👯 I’m looking to collaborate on ... making great things ...
 - 🤔 I’m looking for help with ... finding Tech Job ...
@@ -57,7 +57,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
-## IDEs/Editors : 
+## IDEs/Editors 👨‍💻 : 
 -----
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
