@@ -28,7 +28,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸 :
 
 
 #### Languages:
@@ -76,7 +76,6 @@
 
 
 
-
 ## IDEs/Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
@@ -87,7 +86,7 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utsav360&count_private=true&show_icons=true&theme=prussian" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Utsav360&count_private=true&show_icons=true&theme=prussian" width="500">
 <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav360&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </div>
