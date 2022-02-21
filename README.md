@@ -70,3 +70,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav360&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </div>
 
+-----
+| <a href="https://github.com/Utsav360/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Utsav360&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Utsavkumar Patel's github stats" /></a> | <a href="https://github.com/Utsav360/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav360&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
