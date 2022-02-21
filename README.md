@@ -13,8 +13,10 @@
 - 🤔 I’m looking for help with ... finding Tech Job ...
 - ⚡ Fun fact: ... eat , sleep, coding repeat & make something extraordinary ... 
 - 💬 Ask me... Anything ...
+- 😄 Pronouns: he/Him
+- ⚡ Fun fact: I can speak 3 languages ( English, Hindi, and Gujarati)
 
-## Contact Me🤙🏻: 
+### Talk with me, I am kinda awesome : 
 -----
 [![](https://img.shields.io/badge/LinkedIn-Utsavkumar_Patel-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
 [![](https://img.shields.io/badge/Outlook-Utsavkumar_Patel-%2335BDB2?logo=Outlook&logoColor=Red&labelColor=black)](mailto:utsavkumar-mukeshbhai.patel@mohawkcollege.ca)
