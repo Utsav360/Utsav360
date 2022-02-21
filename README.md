@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="" width="500" height="320" />
+<img align="right" alt="Utsavkumar_Patel" src="https://github.com/Utsav360/Utsav360/blob/main/coder.gif" width="500" height="320" />
 
 ### Hey there .. this is Utsavkumar Patel 👋
 
