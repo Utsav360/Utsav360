@@ -17,8 +17,10 @@
 
 
 [![](https://img.shields.io/badge/LinkedIn-Utsavkumar_Patel-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
-[![](https://img.shields.io/badge/Outlook-Utsavkumar_Patel-red?logo=Outlook&logoColor=Red&labelColor=black)](mailto:utsavkumar-mukeshbhai.patel@mohawkcollege.ca)
+[![](https://img.shields.io/badge/Outlook-Utsavkumar_Patel-%43B02A?logo=Outlook&logoColor=Red&labelColor=black)](mailto:utsavkumar-mukeshbhai.patel@mohawkcollege.ca)
 [![](https://img.shields.io/badge/-@Utsavkumar_Patel-%23181717?style=for-the-badge&logo=github)](https://github.com/Utsav360)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
 ------------
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
