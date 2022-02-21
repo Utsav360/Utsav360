@@ -17,8 +17,8 @@
 
 
 
-[![](https://img.shields.io/badge/-@Utsavkumar_Patel-%00FF00?style=flat-square&logo=linkedin&logoColor=%FFFFFF)](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
-[![](https://img.shields.io/badge/-@Utsavkumar_Patel-%23181717?style=flat-square&logo=github)](https://github.com/Utsav360)
+[![](https://img.shields.io/badge/-@Utsavkumar_Patel-%00FF00?style=for-the-badge&logo=linkedin&logoColor=%FFFFFF)](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
+[![](https://img.shields.io/badge/-@Utsavkumar_Patel-%23181717?style=for-the-badge&logo=github)](https://github.com/Utsav360)
 ------------
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -62,8 +62,6 @@
 ![Weebly](https://img.shields.io/badge/-weebly-%23E5E5E5?style=for-the-badge&logo=weebly&logoColor=058a5e)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
-
-
 
 ## IDEs/Editors : 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
