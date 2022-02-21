@@ -10,7 +10,7 @@
 
 
 
-[![](https://img.shields.io/badge/-@Utsavkumar_Patel-%00FF00?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
+[![](https://img.shields.io/badge/-@Utsavkumar_Patel-%00FF00?style=flat-square&logo=linkedin&logoColor=%FFFFFF)](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
 [![](https://img.shields.io/badge/-@Utsavkumar_Patel-%23181717?style=flat-square&logo=github)](https://github.com/Utsav360)
 
 
