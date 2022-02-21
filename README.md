@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-%23282C34?style=for-the-badge&logo=reactnative)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
-![Vanilla.js](https://img.shields.io/badge/-VanillaJS-yellow?style=flat-square&logo=vanillajs)
+![Vanilla.js](https://img.shields.io/badge/-VanillaJS-yellow?style=for-the-badge&logo=vanillajs)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
