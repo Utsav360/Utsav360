@@ -15,14 +15,14 @@
 - 💬 Ask me... Anything ...
 
 ## Contact Me🤙🏻: 
------------
+-----
 [![](https://img.shields.io/badge/LinkedIn-Utsavkumar_Patel-blue?logo=Linkedin&logoColor=%23239120&labelColor=black)](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
 [![](https://img.shields.io/badge/Outlook-Utsavkumar_Patel-%2335BDB2?logo=Outlook&logoColor=Red&labelColor=black)](mailto:utsavkumar-mukeshbhai.patel@mohawkcollege.ca)
 [![](https://img.shields.io/badge/GitHub-Utsavkumar_Patel-%23181717?logo=github)](https://github.com/Utsav360)
 [![](https://img.shields.io/badge/Whatsapp-Utsavkumar_Patel-25D366?logo=whatsapp&logoColor=green)](https://wa.me/+13653666324)
 
 ## 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸 ⌨️:
-
+-----
 ![React](https://img.shields.io/badge/-React.Js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000?style=for-the-badge&logo=npm&logoColor=white)
@@ -51,12 +51,14 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ## CMS :
+-----
 ![Squarespace](https://img.shields.io/badge/squarespace-2F3134?style=for-the-badge&logo=Squarespace&logoColor=white)
 ![Weebly](https://img.shields.io/badge/-weebly-%23E5E5E5?style=for-the-badge&logo=weebly&logoColor=058a5e)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
 ## IDEs/Editors : 
+-----
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
@@ -64,7 +66,7 @@
 ![Notepad++](https://img.shields.io/badge/Notepad_++-%23239120.svg?style=for-the-badge&logo=notepad++&logoColor=white)
 
 ## 𝗦𝘁𝗮𝘁𝘀 📊:
-
+-----
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=Utsav360&count_private=true&show_icons=true&theme=prussian" width="500">
 <br />
