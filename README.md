@@ -86,7 +86,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Utsavkumar Patel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav360&layout=compact&hide=asp.net,html&theme=dracula&langs_count=10" />
+<img align="left" alt="Utsavkumar Patel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav360&layout=compact&theme=dracula&langs_count=10" />
 
 </details>
 
