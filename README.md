@@ -79,7 +79,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Utsavkumar Patel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Utsav360&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Utsavkumar Patel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Utsav360&show_icons=true&hide_border=true&theme=discord_old_blurple" />
 
 </details>
 
