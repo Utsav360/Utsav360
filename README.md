@@ -1,10 +1,10 @@
-[![](https://img.shields.io/badge/Create-license-blue)](https://shields.io/category/license)
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-![](https://komarev.com/ghpvc/?username=Utsav360&color-brightgreen.svg) 
+[![](https://img.shields.io/badge/Create-license-blue)](https://shields.io/category/license)&nbsp;
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)&nbsp;
+![](https://komarev.com/ghpvc/?username=Utsav360&color-brightgreen.svg)&nbsp; 
 ![](https://img.shields.io/badge/Joined-Sept%2020%2C%202021-blueviolet)
 
 
-### Hey there .. this is Utsavkumar Patel 👋
+### Hey there ... this is Utsavkumar Patel 👋
 
 <img alt="Utsavkumar_Patel" src="https://github.com/Utsav360/Utsav360/blob/main/Programmer.gif" width="600" height="350" />
 <br/>
@@ -13,7 +13,7 @@
 
 :computer🖥️  :  𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈💼 as ![Freelancer](https://img.shields.io/badge/Freelancer-%23239120.svg?style=for-the-badge&logo=Freelancer&logoColor=white) Web Developer 𝒂𝒕 [STEM montessori academy of canada](https://stemacademy.net/) 𝒓𝒆𝒎𝒐𝒕𝒆𝒍𝒚.
 
-:experience✨: 4-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a UX/UI Designer Intern at [Communitech](https://www.communitech.ca/) and more than 6-months as a PHP Web Developer Intern at back to India.
+:experience✨ : 4-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a UX/UI Designer Intern at [Communitech](https://www.communitech.ca/) and more than 6-months as a PHP Web Developer Intern at back to India.
 
 - 💬 I'm recent CST 👨‍💻grad student🧑‍🎓 from Mohawk College ...
 - 🌱 I’m currently learning ... Vue.JS, Node.JS & GraphQL ...
