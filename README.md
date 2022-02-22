@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/create-license-blue)](https://shields.io/category/license)
+[![](https://img.shields.io/badge/Create-license-blue)](https://shields.io/category/license)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 ![](https://komarev.com/ghpvc/?username=Utsav360&color-brightgreen.svg) 
 ![](https://img.shields.io/badge/Joined-Sept%2020%2C%202021-blueviolet)
