@@ -81,7 +81,7 @@
 
 
 ### 𝗦𝘁𝗮𝘁𝘀 📊:
-
+-----
   <img align="left" alt="Utsavkumar Patel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Utsav360&show_icons=true&hide_border=true&theme=discord_old_blurple" />
 
   <img align="left" alt="Utsavkumar Patel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav360&layout=compact&theme=dracula&langs_count=10" />
