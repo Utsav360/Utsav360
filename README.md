@@ -8,9 +8,11 @@
 ![sizeBadge]
 ![codelinesBadge]
 [![codeOfConductBadge]][codeOfConduct]
+
 ![uniqueUsersBadge]
 ![totalrunsbadge]
 ![successratebadge]
+
 [![discordBadge]][Discord]
 
 ### Hey there .. this is Utsavkumar Patel 👋
