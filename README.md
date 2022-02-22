@@ -2,6 +2,16 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 ![](https://komarev.com/ghpvc/?username=Utsav360&color-brightgreen.svg) 
 ![](https://img.shields.io/badge/Joined-Sept%2020%2C%202021-blueviolet)
+[![starsBadge]][stargazers]
+[![forksBadge]][forks]
+[![issuesBadge]][issues]
+![sizeBadge]
+![codelinesBadge]
+[![codeOfConductBadge]][codeOfConduct]
+![uniqueUsersBadge]
+![totalrunsbadge]
+![successratebadge]
+[![discordBadge]][Discord]
 
 ### Hey there .. this is Utsavkumar Patel 👋
 
