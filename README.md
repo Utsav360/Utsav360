@@ -36,7 +36,7 @@
 [![](https://img.shields.io/badge/Whatsapp-Utsavkumar_Patel-25D366?logo=whatsapp&logoColor=green)](https://wa.me/+13653666324)
 
 ### 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸 ⌨️:
------&nbsp;
+-----
 ![React](https://img.shields.io/badge/-React.Js-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![MUI](https://img.shields.io/badge/MUI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23000000?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
