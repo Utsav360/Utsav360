@@ -23,6 +23,10 @@
 - 😄 Pronouns: he/Him
 - ⚡ Fun fact: I can speak 3 languages ( English, Hindi, and Gujarati)
 
+### My GitHub contributions as a Game of Life
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+
 ### Talk with me, I am kinda awesome : 
 -----
 [![](https://img.shields.io/badge/LinkedIn-Utsavkumar_Patel-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
