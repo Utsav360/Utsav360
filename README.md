@@ -1,7 +1,4 @@
 [![](https://img.shields.io/badge/create-license-blue)](https://shields.io/category/license)
-[![](https://img.shields.io/github/license/Utsav360/Utsav360?logo=GitHub)
-](https://github.com/Utsav360/Utsav360/blob/main/UNLICENSE)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![](https://komarev.com/ghpvc/?username=Utsav360&color-%23239120.svg) 
 ![](https://img.shields.io/badge/Joined-Sept%2020%2C%202021-blueviolet)
