@@ -79,11 +79,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 ![Notepad++](https://img.shields.io/badge/Notepad_++-%23239120.svg?style=for-the-badge&logo=notepad++&logoColor=white)
 
-### 𝗦𝘁𝗮𝘁𝘀 📊:
------
 
-### :zap: GitHub Stats
------
+### 𝗦𝘁𝗮𝘁𝘀 📊:
+
   <img align="left" alt="Utsavkumar Patel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Utsav360&show_icons=true&hide_border=true&theme=discord_old_blurple" />
 
 
