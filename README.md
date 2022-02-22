@@ -82,17 +82,15 @@
 ### 𝗦𝘁𝗮𝘁𝘀 📊:
 -----
 
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Utsavkumar Patel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Utsav360&show_icons=true&hide_border=true&theme=discord_old_blurple" />
 
+<summary>:zap: Most Used Languages</summary>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+  <img align="left" alt="Utsavkumar Patel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav360&layout=compact&theme=dracula&langs_count=10" />
 
-<img align="left" alt="Utsavkumar Patel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav360&layout=compact&theme=dracula&langs_count=10" />
 
-</details>
 
 
 
