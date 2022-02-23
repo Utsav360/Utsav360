@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/Create-License-red)](https://shields.io/category/license)&nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)&nbsp;
 ![](https://komarev.com/ghpvc/?username=Utsav360&color-brightgreen.svg)&nbsp; 
-![](https://img.shields.io/badge/Joined_Github-September%2020%2C%152020-blueviolet)
+![](https://img.shields.io/badge/Joined_Github-September%2020%2C%202020-blueviolet)
 
 
 ### Hello World ... I'm Utsavkumar Patel <img src="https://github.com/Utsav360/Utsav360/blob/main/WaveSign.gif" width="28px" alt="WaveSign">
