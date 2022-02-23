@@ -24,9 +24,6 @@
 - 😄 Pronouns: he/Him
 - ⚡ Fun fact: I can speak 3 languages ( English, Hindi, and Gujarati)
 
-### My GitHub contributions as a Game of Life
------
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
 ### Talk with me, I am kinda awesome : 
 -----
