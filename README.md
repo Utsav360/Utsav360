@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Joined_Github-Sept%2020%2C%202021-blueviolet)
 
 
-### Hey there ... this is Utsavkumar Patel <img src="" width="28px" alt="hi">
+### Hey there ... this is Utsavkumar Patel <img src="https://github.com/Utsav360/Utsav360/blob/main/WaveSign.gif" width="28px" alt="WaveSign">
 
 <img alt="Utsavkumar_Patel" src="https://github.com/Utsav360/Utsav360/blob/main/Programmer.gif" width="600" height="350" />
 <br/>
