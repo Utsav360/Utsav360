@@ -76,6 +76,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 ![Notepad++](https://img.shields.io/badge/Notepad_++-%23239120.svg?style=for-the-badge&logo=notepad++&logoColor=white)
 
+### Achievement 🏆:
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Utsav360&theme=onestar" /></a> </p>
 
 ### :octocat: My GitHub 𝗦𝘁𝗮𝘁𝘀 📊:
 -----
@@ -83,8 +85,7 @@
 
   <img align="left" alt="Utsavkumar Patel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav360&layout=compact&theme=dracula&langs_count=10" />
 
-### Achievement 🏆
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Utsav360&theme=onestar" /></a> </p>
+
 
 
 
