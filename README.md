@@ -84,6 +84,10 @@
   <img align="left" alt="Utsavkumar Patel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Utsav360&show_icons=true&hide_border=true&theme=discord_old_blurple" />
 
   <img align="left" alt="Utsavkumar Patel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav360&layout=compact&theme=dracula&langs_count=10" />
+  
+[![](https://github-readme-stats.vercel.app/api?username=Utsav360&count_private=true&show_icons=true&border_radius=10&include_all_commits=true)](https://Utsav360.github.io/) 
+
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=Utsav360&layout=compact&count_private=true&border_radius=10&include_all_commits=true&card_width=450&langs_count=10)](https://Utsav360.github.io/)
 
 
 
