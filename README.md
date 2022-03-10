@@ -24,8 +24,6 @@
 - 😄 Pronouns: he/Him
 - ⚡ Fun fact: I can speak 3 languages ( English, Hindi, and Gujarati)
 
-<h1 align="center">Achievement 🏆</h1>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Utsav360&theme=onestar" /></a> </p>
 
 ### Talk with me, I am kinda awesome : 
 -----
@@ -85,7 +83,8 @@
 
   <img align="left" alt="Utsavkumar Patel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav360&layout=compact&theme=dracula&langs_count=10" />
 
-
+### Achievement 🏆
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Utsav360&theme=onestar" /></a> </p>
 
 
 
