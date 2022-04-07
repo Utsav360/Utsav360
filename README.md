@@ -104,7 +104,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Utsav360&theme=onestar" /></a> </p>
 
 ### Activity Graph:
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username={Utsav360}&theme=minimal)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username={https://github.com/Utsav360}&theme=minimal)
 
 ### :octocat: My GitHub 𝗦𝘁𝗮𝘁𝘀 📊:
 ----- 
