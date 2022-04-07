@@ -30,7 +30,7 @@
 [![](https://img.shields.io/badge/Outlook-Utsavkumar_Patel-%2335BDB2?logo=Outlook&logoColor=Red&labelColor=black)](mailto:utsavkumar-mukeshbhai.patel@mohawkcollege.ca)
 [![](https://img.shields.io/badge/GitHub-Utsavkumar_Patel-%23181717?logo=github)](https://github.com/Utsav360)
 [![](https://img.shields.io/badge/Whatsapp-Utsavkumar_Patel-25D366?logo=whatsapp&logoColor=green)](https://wa.me/+13653666324)
-[![](https://img.shields.io/badge/Gmail-Utsavkumar_Patel-D1483?logo=gmail&logoColor=white)](mailto:utsavpatel.m@gmail.com)
+[![](https://img.shields.io/badge/Gmail-Utsavkumar_Patel-D1483?logo=gmail&logoColor=red)](mailto:utsavpatel.m@gmail.com)
 
 ### 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸 ⌨️:
 -----
