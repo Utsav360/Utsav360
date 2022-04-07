@@ -96,6 +96,10 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
 ![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)
 
+### Other : 
+-----
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
 ### Achievement 🏆:
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Utsav360&theme=onestar" /></a> </p>
 
