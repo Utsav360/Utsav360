@@ -15,7 +15,7 @@
 
 :experience✨ : 4-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a UX/UI Designer Intern at [Communitech](https://www.communitech.ca/) and more than 6-months as a PHP Web Developer Intern at back to India.
 
-- 💬 I'm recent CST 👨‍💻grad student🧑‍🎓 from Mohawk College ...
+- 💫 I'm recent CST 👨‍💻grad student🧑‍🎓 from Mohawk College ...
 - 🔭 I’m currently learning : ... Vue.JS, Node.JS & GraphQL and making clone of Amazon site ...
 - 👯 I’m looking to collaborate on : ... making great things ...
 - ⚡ Fun fact: ... eat, sleep, & coding repeat & make something creative ... 
@@ -85,7 +85,7 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=Utsav360&layout=compact&count_private=true&border_radius=10&include_all_commits=true&card_width=450&langs_count=10)](https://Utsav360.github.io/)
 
 
-
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[https://www.linkedin.com/in/utsavkumar-patel-e3606/]" />
 
 
 
