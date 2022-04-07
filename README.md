@@ -103,8 +103,10 @@
 ### Achievement 🏆:
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Utsav360&theme=onestar" /></a> </p>
 
-### Activity Graph:
+### Activity Graph 📈:
 ![](https://activity-graph.herokuapp.com/graph?username=Utsav360&theme=minimal)
+
+### 💳 Github Profile Summary Card :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utsav360&theme=vue)
 
 ### :octocat: My GitHub 𝗦𝘁𝗮𝘁𝘀 📊:
