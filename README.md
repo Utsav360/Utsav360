@@ -11,7 +11,7 @@
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 ..!!
 
-:computer🖥️  :  𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚  𝒘𝒐𝒓𝒌𝒊𝒏𝒈 💼  as ![Dev](https://img.shields.io/badge/Shopify/Web_Developer-green?style=for-the-badge&logo=shopify&&labelColor=%96bf48&logoColor=black) at [Adaptia](https://www.adaptiadesign.com/) and ![Freelancer](https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=Freelancer&logoColor=white) Web Developer 𝒂𝒕 [STEM montessori academy of canada](https://stemacademy.net/) 𝒓𝒆𝒎𝒐𝒕𝒆𝒍𝒚.
+:computer🖥️  :  𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚  𝒘𝒐𝒓𝒌𝒊𝒏𝒈 💼  as ![Dev](https://img.shields.io/badge/Shopify/Web_Developer-green?style=for-the-badge&logo=shopify&&labelColor=%96bf48&logoColor=black) at <img alt="Adaptia" src="https://github.com/Utsav360/Utsav360/blob/main/Programmer.gif" width="35" height="35" /> [Adaptia](https://www.adaptiadesign.com/) and ![Freelancer](https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=Freelancer&logoColor=white) Web Developer 𝒂𝒕 [STEM montessori academy of canada](https://stemacademy.net/) 𝒓𝒆𝒎𝒐𝒕𝒆𝒍𝒚.
 
 :experience✨ : 4-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a UX/UI Designer Intern at [Communitech](https://www.communitech.ca/) and more than 6-months as a PHP Web Developer Intern at back to India.
 
