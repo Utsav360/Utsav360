@@ -110,7 +110,7 @@
 -----
 ![](https://activity-graph.herokuapp.com/graph?username=Utsav360&theme=minimal)
 
-### 💳 Github Profile Summary Card :
+### Github Profile Summary Card 💳:
 -----
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utsav360&theme=vue)
 
