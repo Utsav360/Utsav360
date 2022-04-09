@@ -11,10 +11,10 @@
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 ..!!
 
-:computer🖥️  :  𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚  𝒘𝒐𝒓𝒌𝒊𝒏𝒈 💼  as ![Dev](https://img.shields.io/badge/Shopify/Web_Developer-green?style=for-the-badge&logo=shopify&&labelColor=%96bf48&logoColor=black) at [<img alt="Adaptia" src="https://github.com/Utsav360/Utsav360/blob/main/Adaptia%20LOGO.jpg" width="95" height="25" />](https://www.adaptiadesign.com/) and 
+:Computer🖥️  :  𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚  𝒘𝒐𝒓𝒌𝒊𝒏𝒈 💼  as ![Dev](https://img.shields.io/badge/Shopify/Web_Developer-green?style=for-the-badge&logo=shopify&&labelColor=%96bf48&logoColor=black) at [<img alt="Adaptia" src="https://github.com/Utsav360/Utsav360/blob/main/Adaptia%20LOGO.jpg" width="95" height="25" />](https://www.adaptiadesign.com/) and 
 ![Freelancer](https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=Freelancer&logoColor=white) Web Developer 𝒂𝒕 [STEM montessori academy of canada](https://stemacademy.net/) [<img alt="STEM" src="https://github.com/Utsav360/Utsav360/blob/main/STEM_logo.jpg" width="35" height="25" />](https://stemacademy.net/) 𝒓𝒆𝒎𝒐𝒕𝒆𝒍𝒚.
 
-:experience✨ : 4-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a UX/UI Designer Intern at [Communitech](https://www.communitech.ca/) and more than 6-months as a PHP Web Developer Intern at back to India.
+:Tech experience✨ : 4-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a UX/UI Designer Intern at [Communitech](https://www.communitech.ca/) and more than 6-months as a PHP Web Developer Intern at back to India.
 
 - 💫 I'm recent CST 🎓🗞💻 grad student🧑 from [Mohawk College](https://mohawkcollege.ca/) ​🏫​👩‍🎓​⬆️️​...
 - 🔭 I’m currently learning : ... Vue.JS, Node.JS & GraphQL and making clone of Amazon site ...
@@ -64,7 +64,7 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-### CMS  :
+### CMS 🌈 :
 -----
 ![Shopify](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
 ![Squarespace](https://img.shields.io/badge/squarespace-2F3134?style=for-the-badge&logo=Squarespace&logoColor=white)&nbsp;
@@ -102,12 +102,15 @@
 
 
 ### Achievement 🏆:
+-----
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Utsav360&theme=onestar" /></a> </p>
 
 ### Activity Graph 📈:
+-----
 ![](https://activity-graph.herokuapp.com/graph?username=Utsav360&theme=minimal)
 
 ### 💳 Github Profile Summary Card :
+-----
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utsav360&theme=vue)
 
 ### :octocat: My GitHub 𝗦𝘁𝗮𝘁𝘀 📊:
