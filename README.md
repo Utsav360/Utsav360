@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Joined_Github-September%2020%2C%202020-blueviolet)
 
 
-### Hello World ... I'm Utsavkumar Patel <img src="https://github.com/Utsav360/Utsav360/blob/main/WaveSign.gif" width="5px" alt="WaveSign">
+### Hello World ... I'm Utsavkumar Patel 
 
 <img alt="Utsavkumar_Patel" src="https://github.com/Utsav360/Utsav360/blob/main/Programmer.gif" align="center" width="600" height="350" />
 <br/>
