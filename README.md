@@ -13,7 +13,7 @@
 
 :Tech experience✨ : 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer at [<img alt="Adaptia" src="https://github.com/Utsav360/Utsav360/blob/main/Adaptia%20LOGO.jpg" width="95" height="25" />](https://www.adaptiadesign.com/), 4-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a UX/UI Designer Intern at [Communitech](https://www.communitech.ca/) and more than 6-months as a PHP Web Developer Intern at back to India.
 
-- 💫 I'm recent CST 🎓🗞💻 grad student🧑 from [Mohawk College](https://mohawkcollege.ca/) ​🏫​👩‍🎓​⬆️️​... January 2022 seeking full time opportunity in Tech Field ...
+- 💫 I'm recent CST(Computer Science and Technology) 🎓💻 January 2022 grad student🧑 from [Mohawk College](https://mohawkcollege.ca/) ​🏫​👩‍🎓​⬆️️​...  seeking full time opportunity in Software/Web Development or UX Design...
 - 🔭 I’m currently learning : ... Learning JIRA Software, GitLab, Flutter, and new emerging technologies ...
 - 👯 I’m looking to collaborate on : ... making great things & projects...
 - ⚡ Fun fact: ... eat, sleep, & learning repeat ... 
@@ -121,11 +121,3 @@
 [![](https://github-readme-stats.vercel.app/api?username=Utsav360&count_private=true&show_icons=true&border_radius=10&include_all_commits=true)](https://Utsav360.github.io/) 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=Utsav360&layout=compact&count_private=true&border_radius=10&include_all_commits=true&card_width=450&langs_count=5)](https://Utsav360.github.io/)
-
-
-
-
-
-
-
-
