@@ -120,4 +120,4 @@
 ----- 
 [![](https://github-readme-stats.vercel.app/api?username=Utsav360&count_private=true&show_icons=true&border_radius=10&include_all_commits=true)](https://Utsav360.github.io/) 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Utsav360&layout=compact&count_private=true&border_radius=10&include_all_commits=true&hide=ASPDOTNET&card_width=450&langs_count=5)](https://Utsav360.github.io/)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=Utsav360&layout=compact&count_private=true&border_radius=10&include_all_commits=true&hide=ASPDOTNET&card_width=450&langs_count=10)](https://Utsav360.github.io/)
