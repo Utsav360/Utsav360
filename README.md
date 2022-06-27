@@ -6,7 +6,7 @@
 
 ### Hello World ... I'm Utsavkumar Patel...
 
-[<img alt="Utsavkumar_Patel" src="https://github.com/Utsav360/Utsav360/blob/main/NewUtsav.png" align="center" width="1300" height="300" />](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
+[<img alt="Utsavkumar_Patel" src="https://github.com/Utsav360/Utsav360/blob/main/NewUtsav.png" align="center" width="800" height="250" />](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
 <br/>
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 ..!!
