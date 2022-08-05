@@ -11,9 +11,10 @@
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 ..!!
 
-:Tech experience✨ : - I'm current eCommerce Coordinator at [Mosaic North America](https://mosaic.com/)  in [<img alt="shopHERE Program Powered by Google" src="https://github.com/Utsav360/Utsav360/blob/main/DMS_ShopHERE_Google.png" width="330" height="35" />](https://youtu.be/BhOaOUhxJ8c), 
-- have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer at [<img alt="Adaptia" src="https://github.com/Utsav360/Utsav360/blob/main/Adaptia%20LOGO.jpg" width="95" height="25" />](https://www.adaptiadesign.com/), 4-months Internship experience as a UX/UI Designer at [Communitech](https://www.communitech.ca/), freelance web developer at STEM Montessory Academy of Canda, and more than 6-months as a PHP Web Developer Intern at back to India.
-
+~~~~
+:Tech experience✨ :  I'm current eCommerce Coordinator at [Mosaic North America](https://mosaic.com/)  in [<img alt="shopHERE Program Powered by Google" src="https://github.com/Utsav360/Utsav360/blob/main/DMS_ShopHERE_Google.png" width="330" height="35" />](https://youtu.be/BhOaOUhxJ8c), 
+have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer at [<img alt="Adaptia" src="https://github.com/Utsav360/Utsav360/blob/main/Adaptia%20LOGO.jpg" width="95" height="25" />](https://www.adaptiadesign.com/), 4-months Internship experience as a UX/UI Designer at [Communitech](https://www.communitech.ca/), freelance web developer at STEM Montessory Academy of Canda, and more than 6-months as a PHP Web Developer Intern at back to India.
+~~~~
 - 💫 I'm recent CST(Computer Science and Technology) 🎓💻 January 2022 grad student🧑 from [Mohawk College](https://mohawkcollege.ca/) ​🏫​👩‍🎓​⬆️️​...  current eCommerce Coordinator at [Mosaic North America](https://mosaic.com/) DMS shopHERE Program Powered by Google...
 - 🔭 I’m currently learning : ... Responsive Web Design Course- FreeCodeCampCource, Shopify, Square, Bookmark, Lightspeed, Marketing Training, Flutter, and emerging technologies ...
 - 👯 I’m looking to collaborate on : ... making great things & projects...
