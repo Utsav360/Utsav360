@@ -113,14 +113,15 @@ have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer 
 ![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)&nbsp;
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-### Project Management | Communication | CRM Tool | Testing | Marketing Tools 👨‍💼: 
+### Project Management | CRM Tool | Communication| Testing | Marketing Tools 👨‍💼: 
 -----
 ![Asana](https://img.shields.io/badge/Asana-A4373A?style=for-the-badge&logo=Asana&logoColor=white)&nbsp;
 ![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=for-the-badge&logo=microsoft-project&logoColor=white)&nbsp;
-![Bugherd](https://img.shields.io/badge/bugherd-000?style=for-the-badge&logo=bugherd&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/slack-470137?style=for-the-badge&logo=slack&logoColor=#FF61F6)&nbsp;
-![Klaviyo](https://img.shields.io/badge/Klaviyo-black?style=for-the-badge&logo=klaviyo&logoColor=white)&nbsp;
 ![Hubspot](https://img.shields.io/badge/hubspot-B7472A?style=for-the-badge&logo=hubspot&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/slack-470137?style=for-the-badge&logo=slack&logoColor=#FF61F6)&nbsp;
+![Bugherd](https://img.shields.io/badge/bugherd-000?style=for-the-badge&logo=bugherd&logoColor=white)&nbsp;
+![Klaviyo](https://img.shields.io/badge/Klaviyo-black?style=for-the-badge&logo=klaviyo&logoColor=white)&nbsp;
+
 
 
 
