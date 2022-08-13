@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)&nbsp;
 ![](https://komarev.com/ghpvc/?username=Utsav360&color-brightgreen.svg)&nbsp; 
 ![](https://img.shields.io/badge/Joined_Github-September%2020%2C%202020-blueviolet)
-![](https://img.shields.io/badge/slack-Utsavkumar_Patel-brightgreen.svg?logo=slack)
+
 
 
 ### Hello Folks ... I'm Utsavkumar Patel...
@@ -76,7 +76,7 @@ have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer 
 ![Shopify](https://img.shields.io/badge/shopify-217346?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
 ![Squarespace](https://img.shields.io/badge/squarespace-2F3134?style=for-the-badge&logo=Squarespace&logoColor=white)&nbsp;
 ![Square](https://img.shields.io/badge/-square-%23E5E5E5?style=for-the-badge&logo=square&logoColor=058a5e)&nbsp;
-![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
+![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)&nbsp;
 ![Bookmark](https://img.shields.io/badge/bookmark-red?style=for-the-badge&logo=bookmark&logoColor=white)&nbsp;
 ![Weebly](https://img.shields.io/badge/-weebly-%23E5E5E5?style=for-the-badge&logo=weebly&logoColor=058a5e)&nbsp;
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;
@@ -116,7 +116,7 @@ have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer 
 ### Project Management | Communication | CRM Tool 👨‍💼: 
 -----
 ![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=for-the-badge&logo=microsoft-project&logoColor=white)&nbsp;
-
+![Slack](https://img.shields.io/badge/slack-000?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
 ### Achievement 🏆:
 -----
