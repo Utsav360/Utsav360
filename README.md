@@ -2,6 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)&nbsp;
 ![](https://komarev.com/ghpvc/?username=Utsav360&color-brightgreen.svg)&nbsp; 
 ![](https://img.shields.io/badge/Joined_Github-September%2020%2C%202020-blueviolet)
+![](https://img.shields.io/badge/slack-brigade-brightgreen.svg?logo=slack)
 
 
 ### Hello Folks ... I'm Utsavkumar Patel...
@@ -112,9 +113,10 @@ have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer 
 ![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)&nbsp;
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-### Project Management | CSM Tool 👨‍💼: 
+### Project Management | Communication | CRM Tool 👨‍💼: 
 -----
 ![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=for-the-badge&logo=microsoft-project&logoColor=white)&nbsp;
+
 
 ### Achievement 🏆:
 -----
