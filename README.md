@@ -76,9 +76,9 @@ have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer 
 ![Shopify](https://img.shields.io/badge/shopify-217346?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
 ![Squarespace](https://img.shields.io/badge/squarespace-2F3134?style=for-the-badge&logo=Squarespace&logoColor=white)&nbsp;
 ![Square](https://img.shields.io/badge/-square-%23E5E5E5?style=for-the-badge&logo=square&logoColor=058a5e)&nbsp;
-![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)&nbsp;
 ![Bookmark](https://img.shields.io/badge/bookmark-red?style=for-the-badge&logo=bookmark&logoColor=white)&nbsp;
 ![Weebly](https://img.shields.io/badge/-weebly-%23E5E5E5?style=for-the-badge&logo=weebly&logoColor=058a5e)&nbsp;
+![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)&nbsp;
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;
 ![Lightspeed](https://img.shields.io/badge/Lightspeed-CA4245?style=for-the-badge&logo=lightspeed&logoColor=white)&nbsp;
 
