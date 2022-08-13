@@ -72,7 +72,7 @@ have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer 
 
 ### CMS 🌈 :
 -----
-![Shopify](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
+![Shopify](https://img.shields.io/badge/shopify-217346?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
 ![Square](https://img.shields.io/badge/-square-%23E5E5E5?style=for-the-badge&logo=square&logoColor=058a5e)&nbsp;
 ![Squarespace](https://img.shields.io/badge/squarespace-2F3134?style=for-the-badge&logo=Squarespace&logoColor=white)&nbsp;
 ![Bookmark](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=bookmark&logoColor=red)&nbsp;
