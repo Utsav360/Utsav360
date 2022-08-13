@@ -112,6 +112,9 @@ have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer 
 ![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)&nbsp;
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
+### Project Management | CSM Tool 👨‍💼: 
+-----
+![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=for-the-badge&logo=microsoft-project&logoColor=white)&nbsp;
 
 ### Achievement 🏆:
 -----
