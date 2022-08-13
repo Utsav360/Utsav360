@@ -116,8 +116,10 @@ have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer 
 ### Project Management | Communication | CRM Tool 👨‍💼: 
 -----
 ![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=for-the-badge&logo=microsoft-project&logoColor=white)&nbsp;
+![Asana](https://img.shields.io/badge/Asana-A4373A?style=for-the-badge&logo=Asana&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/slack-470137?style=for-the-badge&logo=slack&logoColor=#FF61F6)&nbsp;
 ![Hubspot](https://img.shields.io/badge/hubspot-B7472A?style=for-the-badge&logo=hubspot&logoColor=white)&nbsp;
+
 
 ### Achievement 🏆:
 -----
