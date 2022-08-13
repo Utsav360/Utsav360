@@ -64,14 +64,14 @@ have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL)
 
-### Version Control Systems ⚡: 
+### Version Control Systems (VCS) ⚡: 
 -----
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 
-### CMS 🌈 :
+### Content Management Systems (CMS) 🌈 :
 -----
 ![Shopify](https://img.shields.io/badge/shopify-217346?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
 ![Squarespace](https://img.shields.io/badge/squarespace-2F3134?style=for-the-badge&logo=Squarespace&logoColor=white)&nbsp;
