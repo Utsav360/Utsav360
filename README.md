@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)&nbsp;
 ![](https://komarev.com/ghpvc/?username=Utsav360&color-brightgreen.svg)&nbsp; 
 ![](https://img.shields.io/badge/Joined_Github-September%2020%2C%202020-blueviolet)
-![](https://img.shields.io/badge/slack-brigade-brightgreen.svg?logo=slack)
+![](https://img.shields.io/badge/slack-Utsavkumar_Patel-brightgreen.svg?logo=slack)
 
 
 ### Hello Folks ... I'm Utsavkumar Patel...
