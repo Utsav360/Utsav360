@@ -119,6 +119,7 @@ have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer 
 ![Asana](https://img.shields.io/badge/Asana-A4373A?style=for-the-badge&logo=Asana&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/slack-470137?style=for-the-badge&logo=slack&logoColor=#FF61F6)&nbsp;
 ![Hubspot](https://img.shields.io/badge/hubspot-B7472A?style=for-the-badge&logo=hubspot&logoColor=white)&nbsp;
+![Bugherd](https://img.shields.io/badge/bugherd-000?style=for-the-badge&logo=bugherd&logoColor=white)&nbsp;
 
 
 ### Achievement 🏆:
