@@ -121,7 +121,7 @@ have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer 
 ![Slack](https://img.shields.io/badge/slack-470137?style=for-the-badge&logo=slack&logoColor=#FF61F6)&nbsp;
 ![Bugherd](https://img.shields.io/badge/bugherd-000?style=for-the-badge&logo=bugherd&logoColor=white)&nbsp;
 ![Klaviyo](https://img.shields.io/badge/Klaviyo-black?style=for-the-badge&logo=klaviyo&logoColor=white)&nbsp;
-
+![Klaviyo](https://img.shields.io/badge/Klaviyo-%23E5E5E5?style=for-the-badge&logo=Klaviyo&logoColor=058a5e)&nbsp;
 
 
 
