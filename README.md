@@ -13,11 +13,11 @@
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 ..!!
 
 
-: Tech experience✨ :  I'm currently working as an Implementation & Support Specialist at [Harris Computer](https://www.harriscomputer.com/), have hands-on experience as an eCommerce Coordinator & Engagers Team Member at [Mosaic North America](https://mosaic.com/) in [<img alt="shopHERE Program Powered by Google" src="https://github.com/Utsav360/Utsav360/blob/main/DMS_ShopHERE_Google.png" width="330" height="35" />](https://youtu.be/BhOaOUhxJ8c), <br/><br/>
+: Tech experience✨ :  I'm currently working as an Implementation & Support Specialist at [Harris Computer](https://www.harriscomputer.com/), have gained hands-on experience as an eCommerce Coordinator & Engagers Team Member at [Mosaic North America](https://mosaic.com/) in [<img alt="shopHERE Program Powered by Google" src="https://github.com/Utsav360/Utsav360/blob/main/DMS_ShopHERE_Google.png" width="330" height="35" />](https://youtu.be/BhOaOUhxJ8c), <br/><br/>
 have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer at [<img alt="Adaptia" src="https://github.com/Utsav360/Utsav360/blob/main/Adaptia%20LOGO.jpg" width="95" height="25" />](https://www.adaptiadesign.com/), 4-months Internship experience as a UX/UI Designer at <br/><br/> [Communitech](https://www.communitech.ca/), freelance web developer at STEM Montessory Academy of Canda, and more than 6-months as a PHP Web Developer Intern at back to India.
 
 - 💫 I'm recent CST(Computer Science and Technology) 🎓💻 January 2022 grad student🧑 from [Mohawk College](https://mohawkcollege.ca/) ​🏫​👩‍🎓​⬆️️​...  current eCommerce Coordinator at [Mosaic North America](https://mosaic.com/) in DMS shopHERE Program Powered by Google... Recently got recognition as [the Engager of the month award](https://www.linkedin.com/posts/utsavkumar-patel-e3606_digitalmainstreet-shophere-ecommerce-activity-7014650754229555200-D9XS?utm_source=share&utm_medium=member_desktop)🏆 for the month of December 2022 for all of my work, peer reviews, and helping fellow coordinators and supporting clients in the ShopHERE Program..
-- 🔭 I’m currently learning : ... IT Support Technical Skills HelpDesk, emerging web technologies ...
+- 🔭 I’m currently learning : ... emerging web technologies ...
 - 👯 I’m looking to collaborate on : ... making great things & projects...
 - ⚡ Fun fact : ... eat, sleep, & learning repeat ... 
 - 💬 Ask me :  Anything ...
@@ -83,7 +83,6 @@ have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer 
 ![Lightspeed](https://img.shields.io/badge/Lightspeed-CA4245?style=for-the-badge&logo=lightspeed&logoColor=white)&nbsp;
 
 
-
 ### Design 🖍 :
 -----
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
@@ -108,7 +107,7 @@ have around 3-months 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 experience as a Web Developer 
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)&nbsp;
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
-![Microsoft Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
 ![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)&nbsp;
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
