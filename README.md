@@ -50,6 +50,27 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
+### Content Management Systems (CMS) 🌈 :
+-----
+![Shopify](https://img.shields.io/badge/shopify-217346?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
+![Squarespace](https://img.shields.io/badge/squarespace-2F3134?style=for-the-badge&logo=Squarespace&logoColor=white)&nbsp;
+![Square](https://img.shields.io/badge/-square-%23E5E5E5?style=for-the-badge&logo=square&logoColor=058a5e)&nbsp;
+![Bookmark](https://img.shields.io/badge/bookmark-red?style=for-the-badge&logo=bookmark&logoColor=white)&nbsp;
+![Weebly](https://img.shields.io/badge/-weebly-%23E5E5E5?style=for-the-badge&logo=weebly&logoColor=058a5e)&nbsp;
+![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;
+![Lightspeed](https://img.shields.io/badge/Lightspeed-CA4245?style=for-the-badge&logo=lightspeed&logoColor=white)&nbsp;
+
+
+### Design 🖍 :
+-----
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Adobe Phtotoshp](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
+![Pexels](https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white)&nbsp;
+![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white)
+
 ### Database ⚡ :
 -----
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
@@ -62,6 +83,15 @@
 ![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-7F00FF?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 ![W3School](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)&nbsp;
+
+### IDEs/Editors 👨‍💻 : 
+-----
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![ADOBE DREAMWEAVER](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ### 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸 ⌨️:
 -----
@@ -94,45 +124,6 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL)
 
-### Version Control Systems (VCS) ⚡: 
------
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
-
-### Content Management Systems (CMS) 🌈 :
------
-![Shopify](https://img.shields.io/badge/shopify-217346?style=for-the-badge&logo=Shopify&logoColor=white)&nbsp;
-![Squarespace](https://img.shields.io/badge/squarespace-2F3134?style=for-the-badge&logo=Squarespace&logoColor=white)&nbsp;
-![Square](https://img.shields.io/badge/-square-%23E5E5E5?style=for-the-badge&logo=square&logoColor=058a5e)&nbsp;
-![Bookmark](https://img.shields.io/badge/bookmark-red?style=for-the-badge&logo=bookmark&logoColor=white)&nbsp;
-![Weebly](https://img.shields.io/badge/-weebly-%23E5E5E5?style=for-the-badge&logo=weebly&logoColor=058a5e)&nbsp;
-![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)&nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;
-![Lightspeed](https://img.shields.io/badge/Lightspeed-CA4245?style=for-the-badge&logo=lightspeed&logoColor=white)&nbsp;
-
-
-### Design 🖍 :
------
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Adobe Phtotoshp](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
-![Pexels](https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white)&nbsp;
-![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white)
-
-
-### IDEs/Editors 👨‍💻 : 
------
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![ADOBE DREAMWEAVER](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-
-
 ### Office 👨‍💻 :
 -----
 ![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)&nbsp;
@@ -154,6 +145,13 @@
 ![Slack](https://img.shields.io/badge/slack-470137?style=for-the-badge&logo=slack&logoColor=#FF61F6)&nbsp;
 ![Bugherd](https://img.shields.io/badge/bugherd-000?style=for-the-badge&logo=bugherd&logoColor=white)&nbsp;
 ![Klaviyo](https://img.shields.io/badge/Klaviyo-%23E5E5E5?style=for-the-badge&logo=Klaviyo&logoColor=058a5e)&nbsp;
+
+### Version Control Systems (VCS) ⚡: 
+-----
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 
 
 
