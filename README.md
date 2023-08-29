@@ -38,8 +38,7 @@
 
 ###  Analytics 📊 :
 -----
-![Google Analytics]([https://img.shields.io/badge/-React.Js-61DAFB?style=for-the-badge&logo=react&logoColor=white](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
-));
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)&nbsp;
 
 ### 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸 ⌨️:
 -----
