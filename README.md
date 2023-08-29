@@ -35,6 +35,7 @@
 [![](https://img.shields.io/badge/GitHub-Utsavkumar_Patel-%23181717?logo=github)](https://github.com/Utsav360)
 [![](https://img.shields.io/badge/Whatsapp-Utsavkumar_Patel-25D366?logo=whatsapp&logoColor=green)](https://wa.me/+13653666324)
 [![](https://img.shields.io/badge/Gmail-Utsavkumar_Patel-D1483?logo=gmail&logoColor=red&labelColor=white)](mailto:utsavpatel.m@gmail.com)
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]
 
 ###  Analytics 📊 :
 -----
