@@ -61,6 +61,7 @@
 ![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=white)&nbsp;
 ![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-7F00FF?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
+![W3School](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)&nbsp;
 
 ### 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸 ⌨️:
 -----
