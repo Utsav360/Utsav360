@@ -42,6 +42,7 @@
 -----
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)&nbsp;
 
+
 ### Cloud ☁ :
 -----
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
@@ -49,6 +50,7 @@
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+
 
 ### Content Management Systems (CMS) 🌈 :
 -----
@@ -71,10 +73,12 @@
 ![Pexels](https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white)&nbsp;
 ![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white)
 
+
 ### Database ⚡ :
 -----
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### 📚 Education :
 -----
@@ -84,6 +88,7 @@
 ![Udemy](https://img.shields.io/badge/Udemy-7F00FF?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 ![W3School](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)&nbsp;
 
+
 ### IDEs/Editors 👨‍💻 : 
 -----
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -92,6 +97,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+
 
 ### 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸 ⌨️:
 -----
@@ -124,6 +130,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL)
 
+
 ### Office 👨‍💻 :
 -----
 ![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)&nbsp;
@@ -136,6 +143,7 @@
 ![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)&nbsp;
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
+
 ### Project Management | CRM Tool | Communication| Testing | Marketing Tools 👨‍💼: 
 -----
 ![Asana](https://img.shields.io/badge/Asana-A4373A?style=for-the-badge&logo=Asana&logoColor=white)&nbsp;
@@ -146,9 +154,9 @@
 ![Bugherd](https://img.shields.io/badge/bugherd-000?style=for-the-badge&logo=bugherd&logoColor=white)&nbsp;
 ![Klaviyo](https://img.shields.io/badge/Klaviyo-%23E5E5E5?style=for-the-badge&logo=Klaviyo&logoColor=058a5e)&nbsp;
 
+
 ### Version Control Systems (VCS) ⚡: 
 -----
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
