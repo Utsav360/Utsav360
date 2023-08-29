@@ -36,6 +36,11 @@
 [![](https://img.shields.io/badge/Whatsapp-Utsavkumar_Patel-25D366?logo=whatsapp&logoColor=green)](https://wa.me/+13653666324)
 [![](https://img.shields.io/badge/Gmail-Utsavkumar_Patel-D1483?logo=gmail&logoColor=red&labelColor=white)](mailto:utsavpatel.m@gmail.com)
 
+###  Analytics 📊 :
+-----
+![Google Analytics]([https://img.shields.io/badge/-React.Js-61DAFB?style=for-the-badge&logo=react&logoColor=white](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
+));
+
 ### 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸 ⌨️:
 -----
 ![React](https://img.shields.io/badge/-React.Js-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
