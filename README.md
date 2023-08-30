@@ -224,6 +224,9 @@
 ![Bugherd](https://img.shields.io/badge/bugherd-000?style=for-the-badge&logo=bugherd&logoColor=white)&nbsp;
 ![Klaviyo](https://img.shields.io/badge/Klaviyo-%23E5E5E5?style=for-the-badge&logo=Klaviyo&logoColor=058a5e)&nbsp;
 
+### Social 👨 :
+
+
 
 ### Version Control Systems (VCS) ⚡: 
 -----
