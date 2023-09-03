@@ -291,6 +291,16 @@
 ![](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
 
+### ⏱️ Workflow Platforms :
+![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
+
+
+### 💻 Workspace Spec :
+![]()&nbsp;https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white
+![](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)&nbsp;
+
+
 ### Achievement 🏆:
 -----
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Utsav360&theme=onestar" /></a> </p>
