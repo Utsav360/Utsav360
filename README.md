@@ -296,10 +296,12 @@
 
 
 ### 💻 Workspace Spec :
+![](https://img.shields.io/badge/Apple-MacBook_Air_M2-333333?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)&nbsp;
-
+![](https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/dell-XPS%2015%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)&nbsp;
 
 ### Achievement 🏆:
 -----
