@@ -224,9 +224,59 @@
 ![Bugherd](https://img.shields.io/badge/bugherd-000?style=for-the-badge&logo=bugherd&logoColor=white)&nbsp;
 ![Klaviyo](https://img.shields.io/badge/Klaviyo-%23E5E5E5?style=for-the-badge&logo=Klaviyo&logoColor=058a5e)&nbsp;
 
+
+### Payment Integration :
+![Amazon Pay](https://img.shields.io/badge/amazon%20pay-F79114?style=for-the-badge&logo=amazon%20pay&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/apple%20pay-007AFF?style=for-the-badge&logo=apple%20pay&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/MasterCard-EB001B?style=for-the-badge&logo=MasterCard&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)&nbsp;
+![](https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple)&nbsp;
+
+
 ### Social 👨 :
+![](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)&nbsp;
 
 
+### 🎶 Sound :
+![](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+
+
+### 🛒 Store :
+![](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)&nbsp;
+
+
+### 🎞 Streaming :
+![](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)&nbsp;
+
+
+### 💻 Terminal :
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 ### Version Control Systems (VCS) ⚡: 
 -----
