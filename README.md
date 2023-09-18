@@ -29,7 +29,7 @@ I gained practical experience as an eCommerce Coordinator with [Mosaic North Ame
 
 ### Talk with me 📱 Contact, I am kind of awesome : 
 -----
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)] (https://utsavkumarpatel360.com/)
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://utsavkumarpatel360.com/)
 [![](https://img.shields.io/badge/LinkedIn-Utsavkumar_Patel-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/utsavkumar-patel-e3606/)
 [![](https://img.shields.io/badge/Outlook-Utsavkumar_Patel-%2335BDB2?logo=Outlook&logoColor=Red&labelColor=black)](mailto:utsavkumar-mukeshbhai.patel@mohawkcollege.ca)
 [![](https://img.shields.io/badge/GitHub-Utsavkumar_Patel-%23181717?logo=github)](https://github.com/Utsav360)
